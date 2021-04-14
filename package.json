@@ -1,0 +1,26 @@
+{
+  "name": "travis_express_endpoint_test",
+  "version": "1.0.0",
+  "description": "travis_express_endpoint_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhjotdev/travis_express_endpoint_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabhjotdev/travis_express_endpoint_test/issues"
+  },
+  "homepage": "https://github.com/prabhjotdev/travis_express_endpoint_test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  }
+}
